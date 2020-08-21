@@ -7,7 +7,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/robertbasic/d20/roll"
+	"../roll"
 )
 
 var tpls = []string{
