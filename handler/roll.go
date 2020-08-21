@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/robertbasic/d20/roll"
+	"../roll"
 )
 
 type Roll struct{}
