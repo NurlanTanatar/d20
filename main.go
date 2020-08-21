@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/robertbasic/d20/handler"
+	"./handler"
 )
 
 func main() {
